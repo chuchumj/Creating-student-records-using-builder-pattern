@@ -1,4 +1,4 @@
-//// class for student records
+// class for student records
 class Studentfile{
 
     private String firstname ;
